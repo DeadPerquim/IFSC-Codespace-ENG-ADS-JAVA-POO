@@ -1,4 +1,4 @@
-public class A1_0Teste {
+public class A1_00Teste {
     public static void main(String[] args) {
         // Declaração de variáveis inteiras e reais
         int numeroInteiro = 10;      // Tipo inteiro (int)
@@ -9,6 +9,7 @@ public class A1_0Teste {
         System.out.println("Número real: " + numeroReal);
     }
 }
+
 
 
 
