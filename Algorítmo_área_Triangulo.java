@@ -14,6 +14,6 @@ public class Algorítmo_área_Triangulo {
     
         System.out.println("sua área é" + area);
     
-        entrada.close();
+        leia.close();
     }
 }
